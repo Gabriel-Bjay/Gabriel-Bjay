@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Bjay Makara</h1>
 <h3 align="center">A passionate full-stack software developer and AI Enthusiast from Nairobi,Kenya.</h3>
 
-- 📫 How to reach me **jayabjay2018@gmail.com**
+- 📫 How to reach me **bjaymakara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
