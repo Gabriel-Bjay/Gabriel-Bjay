@@ -56,18 +56,26 @@ new frameworks and AI tooling.
 ## Featured Projects
 
 - **PRMS — Property & Rental Management System**
-  A full rental, billing, and payments platform built with Laravel, Angular, and PostgreSQL, scaled from a CRUD MVP into a production-style system.
+  A full rental, billing, and payments platform built with Laravel, Angular, and PostgreSQL, scaled from a CRUD MVP into a production-style system.\
+  [Live demo](https://rems-frontend-mu.vercel.app) with one-click owner, agent and tenant logins · [Backend code](https://github.com/Gabriel-Bjay/rems-backend) · [Frontend code](https://github.com/Gabriel-Bjay/rems-frontend)
 
 - **EQUITASK — Intelligent Task Allocation Engine**
-  A task allocation engine combining skill, workload, performance, fairness, and urgency scoring with a weight-learning layer and a fairness dashboard.
+  A task allocation engine combining skill, workload, performance, fairness, and urgency scoring with a weight-learning layer and a fairness dashboard.\
+  [Live demo](https://equitask-task-manager.vercel.app) · [Code](https://github.com/Gabriel-Bjay/Equitask--task-manager)
 
-- **Help Desk System**
-  A ticketing and support platform built with Laravel, Angular, and PostgreSQL.
+- **PR Concierge — GitHub App**
+  Labels pull requests by size, keeps one self-updating checklist of what each one is missing, and nudges reviewers when a review goes quiet. TypeScript and Octokit, running serverless on Vercel.\
+  [Live site](https://pr-concierge.vercel.app) · [Code](https://github.com/Gabriel-Bjay/pr-concierge)
+
+- **VHS Video Store**
+  A retro 80s-style movie discovery app with TMDB search, real-time favorites and watchlists, and Google sign-in. Built with Next.js, TypeScript, and Firebase.\
+  [Live demo](https://vhs-video-store.vercel.app) · [Code](https://github.com/Gabriel-Bjay/VHS-Video-Store)
 
 ---
 
 ## Connect With Me
 
+- Portfolio: [gabriel-bjay.github.io/Resume-Portfolio](https://gabriel-bjay.github.io/Resume-Portfolio/)
 - LinkedIn: [bjay-makara](https://www.linkedin.com/in/bjay-makara)
 - Email: [bjaymakara@gmail.com](mailto:bjaymakara@gmail.com)
 
